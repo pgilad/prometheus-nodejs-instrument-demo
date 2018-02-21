@@ -1,0 +1,16 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "A dummy instrumented node.js backend",
+  "repository": "pgilad/prometheus-backend-instrument",
+  "main": "express.js",
+  "scripts": {},
+  "author": "Gilad Peleg <giladp007@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "morgan": "*",
+    "prom-client": "*"
+  }
+}

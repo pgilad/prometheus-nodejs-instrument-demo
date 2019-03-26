@@ -10,7 +10,7 @@
   "dependencies": {
     "body-parser": "*",
     "express": "*",
-    "morgan": "*",
+    "morgan": "^1.9.1",
     "prom-client": "*"
   }
 }
